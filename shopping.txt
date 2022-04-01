@@ -5,4 +5,4 @@ apple x 3
 blueberries x 2
 lemone x 11
 carrot x 7
-new x 1
+new x 6
