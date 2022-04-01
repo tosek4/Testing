@@ -1,2 +1,3 @@
-orange
-banana
+orange x 5
+banana x 2
+pomegranate x 1
