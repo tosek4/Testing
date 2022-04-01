@@ -1,3 +1,3 @@
 orange x 5
 banana x 2
-lemone
+lemone x 11
